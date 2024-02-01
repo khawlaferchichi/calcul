@@ -1,11 +1,11 @@
-def add(x,y):
-    return x+y
+def add(a,b):
+    return a+b
 
-def subtract(x,y):
-    return x-y
+def subtract(a,b):
+    return a-b
 
-def multiply(x,y):
-    return x*y
+def multiply(a,b):
+    return a*b
 
-def divide(x,y):
-    return x/y
+def divide(a,b):
+    return a/b
